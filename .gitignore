@@ -23,5 +23,6 @@ docs/site/
 # environment.
 Manifest.toml
 
-# ignore VSCode
+# ignore other stuff
 .vscode/
+sandbox/
